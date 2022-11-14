@@ -111,6 +111,50 @@ body {
   align-items: center;
 }
 
+/*  START TITLE HERE */
+h2 {
+   font-size: 30px;
+   font-weight: bolder;
+   color: white;
+   padding-bottom: 20px;
+  
+  }
+  
+  .title-here {
+   display: block;
+   text-align: center;
+   font-family:'Noto Serif Georgian', serif;
+   background-color: #ffc400;
+ 
+  
+  }
+  
+  .description{
+   padding-bottom: 50px;
+   display: flex;
+   justify-content: center;
+   flex-direction: row;
+   color: white;
+   font-size: 25px;
+  
+  }
+  
+  .container-title {
+   justify-content: center;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+  
+  }
+  
+  .doggy {
+   display: flex;
+   flex-direction: column;
+   width: 25%;
+  
+  
+  }
+/* END TITLE HERE */
 /* START OF VETCARE */
 
 .row {
